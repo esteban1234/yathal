@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
     <meta charset="utf-8">
-    
+    <meta name="google-site-verification" content="Fka7KNJ-PMq07AwbpBpB7gb0M_FuR-_pxvnTYZKEMPI" />
     <link rel="icon" type="image/png" href="img/favicon.png" />
   <title>COMERCIALIZADORA MAYORISTA YATHAL</title>
    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
